@@ -1,0 +1,18 @@
+{
+  "name": "gabriela-professional-website",
+  "version": "1.0.0",
+  "description": "Professional portfolio website for Gabriela E. Menocal, built as a static site with a Node.js local preview server.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "professional-website",
+    "nodejs",
+    "cloudflare-pages"
+  ],
+  "author": "Gabriela E. Menocal",
+  "license": "MIT"
+}
